@@ -8,3 +8,7 @@
     </head>
   <body>
     <footer>
+    <p>Bienvenido a nuestro sitio web</p>
+    </footer>
+  </body>
+</html>
